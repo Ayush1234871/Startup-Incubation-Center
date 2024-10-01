@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "",
+    "paragraph": ""
+  },
+  "About": {
+    "paragraph": "The Startup Incubation Cell at Graphic Era Hill University Haldwani is dedicated to fostering innovation and entrepreneurship within our community. We provide aspiring entrepreneurs with the tools, mentorship, and resources needed to turn their ideas into successful ventures. Through expert guidance, networking opportunities, and funding support, we create an ecosystem that nurtures creativity and business growth. Our mission is to empower students, researchers, and faculty to become changemakers by offering a dynamic space where innovation thrives and future leaders are built. Join us in transforming ideas into impactful startups!",
+    "Why": [
+      "Mentorship & Guidance",
+      "Networking Opportunities",
+      "Workspace & Resources",
+      "Workshops & Events"
+    ],
+    "Why2": [
+      "Access To funding",
+      "Skill Development",
+      "Business Model validation",
+      "Startup supoort services"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Graph-e-thon",
+      "largeImage": "img/event images/1.jpg",
+      "smallImage": "img/event images/1.jpg"
+    },
+    {
+      "title": "Graph-e-thon",
+      "largeImage": "img/event images/2.jpg",
+      "smallImage": "img/event images/2.jpg"
+    },
+    {
+      "title": "Graph-e-thon",
+      "largeImage": "img/event images/1.jpg",
+      "smallImage": "img/event images/1.jpg"
+    },
+    {
+      "title": "Industrial Visit",
+      "largeImage": "img/event images/3.jpg",
+      "smallImage": "img/event images/3.jpg"
+    },
+    {
+      "title": "Industrial Visit",
+      "largeImage": "img/event images/4.jpg",
+      "smallImage": "img/event images/4.jpg"
+    },
+    {
+      "title": "Seminar",
+      "largeImage": "img/event images/5.jpg",
+      "smallImage": "img/event images/5.jpg"
+    },
+    {
+      "title": "Industrial Visit",
+      "largeImage": "img/event images/4.jpg",
+      "smallImage": "img/event images/4.jpg"
+    },
+    {
+      "title": "Graph-e-thon",
+      "largeImage": "img/event images/8.jpg",
+      "smallImage": "img/event images/8.jpg"
+    },
+    {
+      "title": "Graph-e-thon",
+      "largeImage": "img/event images/1.jpg",
+      "smallImage": "img/event images/1.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Skill Development",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Mentorship & Guidance",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Workspace & Resources",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Workshops & Events",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Access To funding",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Startup supoort services",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/team/main1.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "XYZ"
+    },
+    {
+      "img": "img/team/main1.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "XYZ"
+    },
+    {
+      "img": "img/team/main1.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "XYZ"
+    },
+    {
+      "img": "img/team/main1.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "XYZ"
+    },
+    {
+      "img": "img/team/main1.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "XYZ"
+    },
+    {
+      "img": "img/team/main1.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "XYZ"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/main1.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/main2.png",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/main1.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/main2.png",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": " Graphic Era Hill University Near Mahalakshmi Temple Opp to Midas square,Haldwani,Nainital,Uttarakhand",
+    "phone": "+123*********",
+    "email": "info@company.gehu.ac.in",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
